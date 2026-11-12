@@ -1,7 +1,0 @@
-THis is a test written on my laptop. It is to be opened on my desktop and then deleted.
-
-- laptop.
-
-The test was recieved. This will now be deleted.
-
-- desktop
